@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mobil alkfejl</string>
+    <string name="name">Név</string>
+    <string name="jelsz">Jelszó</string>
+    <string name="bejelentkez_s">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="felhasznalo">Felhasználónév</string>
+    <string name="emailcim">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="vendegkentbejelentkez">Bejelentkezés vendégként</string>
+    <string name="googlefiokbejelentkez">Bejelentkezés Google fiókkal</string>
+    <string name="kedvencszin">Mi a kedvenc színed?</string>
+    <string name="valasz1">Írd ide a választ</string>
+    <string name="autotipus">Milyen típusú autót szeretnél?</string>
+    <string name="szedan">Szedán</string>
+    <string name="sportos">Sportos</string>
+    <string name="suv">SUV</string>
+    <string name="h_ny_ves_vagy">Hány éves vagy?</string>
+    <string name="rd_ide_a_v_laszt">Írd ide a választ</string>
+    <string name="k_ld_s">Küldés</string>
+</resources>
