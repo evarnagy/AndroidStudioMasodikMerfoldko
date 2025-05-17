@@ -108,12 +108,12 @@ public class RegisterActivity extends AppCompatActivity {
         String passwordConfirm = passwordagainEditText.getText().toString();
 
         if (userName.isEmpty() || email.isEmpty() || password.isEmpty() || passwordConfirm.isEmpty()) {
-            // Ha bármelyik mező üres, megjelenítjük a figyelmeztetést
+
             Toast.makeText(this, "Minden mezőt ki kell tölteni!", Toast.LENGTH_SHORT).show();
-            return; // Kilépünk, ha nincs minden mező kitöltve
+            return;
         }
         if (!password.equals(passwordConfirm)) {
-            // Ha a két jelszó nem egyezik
+
             Toast.makeText(this, "A jelszó és a megerősítés nem egyezik!", Toast.LENGTH_SHORT).show();
             return;
         }

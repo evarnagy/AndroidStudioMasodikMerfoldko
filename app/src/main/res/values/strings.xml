@@ -19,4 +19,14 @@
     <string name="h_ny_ves_vagy">Hány éves vagy?</string>
     <string name="rd_ide_a_v_laszt">Írd ide a választ</string>
     <string name="k_ld_s">Küldés</string>
+    <string name="kedvenc_sz_n">Kedvenc szín</string>
+    <string name="adatok_bet_lt_se">Adatok betöltése</string>
+    <string name="felhaszn_l_id">Felhasználó ID</string>
+    <string name="aut_t_pusa">Autó típusa</string>
+    <string name="kor">Kor</string>
+    <string name="friss_t_s">Frissítés</string>
+    <string name="t_rl_s">Törlés</string>
+    <string name="rlapok_kezel_se_crud">Űrlapok kezelése (CRUD)</string>
+    <string name="f_nyk_pez_s">Fényképezés</string>
+    <string name="helyzet_ismeretlen">Helyzet: Ismeretlen</string>
 </resources>
